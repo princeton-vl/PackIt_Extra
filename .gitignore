@@ -1,0 +1,5 @@
+*.DS_Store
+unity-build/packing*
+unity-build/precompute*
+unity-build/Resources*
+unity-build/StreamingAssets*
