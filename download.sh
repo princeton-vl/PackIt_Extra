@@ -9,10 +9,10 @@ wgetgdrive(){
 }
 
 mkdir tmp
-wgetgdrive 1VpwiAx0i1sanmqHLf1TIe9re5LBVaPQW tmp/data.zip
-wgetgdrive 12SNYDxsruXCeQasOzVgdlbBrHzAkOlDO tmp/precompute.zip
-wgetgdrive 1z46AEKQJtSgoA48bXkqfNVLYW8vmjq7X tmp/packing.zip
-wgetgdrive 1BGv3V0k7fyTlkhpAtC-GFVUopV19nkbY tmp/resources.zip
+wgetgdrive 1T1P_GLgvPp_mF-tXGe_Yq_0FdARLF1R1 tmp/data.zip
+wgetgdrive 1sfnY_LdIK4S8CnxyBpZtF-yN5mGak2el tmp/precompute.zip
+wgetgdrive 1N1QTrSEa_x27dsfc5spU9iHp6PWCLb0H tmp/packing.zip
+wgetgdrive 1HBURFlt3tUACDSgTo4NdM4BSnZ-lM2e5 tmp/resources.zip
 
 unzip tmp/data.zip -d unity-build
 unzip tmp/precompute.zip -d unity-build
